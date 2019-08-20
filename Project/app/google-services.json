@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331613921623",
+    "firebase_url": "https://project-fridayk.firebaseio.com",
+    "project_id": "project-fridayk",
+    "storage_bucket": "project-fridayk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331613921623:android:6fddbf0bc1b4e2c3",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331613921623-eirgse0dtp0bhhc8phej5bi6ep60pgdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "dff81d0fd60f98b4f7cb54725e695f06e709929e"
+          }
+        },
+        {
+          "client_id": "331613921623-4fo05eluove9em44l67k1322faild93f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwsTF31ybde9OLlCx7tkAg2fIgmM-Lv88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331613921623-4fo05eluove9em44l67k1322faild93f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
